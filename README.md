@@ -1,2 +1,2 @@
-# SpacePizza
-Una tienda online para una pizzeria en Tocaima
+# MandalasPrint
+Una tienda online para comprar mandalas y dibujos creativos
